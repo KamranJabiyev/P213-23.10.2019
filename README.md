@@ -7,8 +7,14 @@ https://www.w3schools.com/js/js_switch.asp
 https://www.w3schools.com/js/js_functions.asp
 
 
+Tapshiriq:
+
 1.Funksiya 3 parametr qebul edecek. Ilk 2 parametr eded, 3-cu ise +,-,*,/,% ola biler. 
 Buna uygun olaraq cavab chixarmalisiz. Eger 3-cu parametr gonderilmezse, toplama emeliyatini etmelidir funksiya.
 Eger 3-cu parametr gosterilen deyerlerden ferqli bishey gonderilse, ekrana "duzgun simvol yazin" yazilmalidir.
 
 Mes: funksiyamiz- Test(5,7,'+') - cavab: 12
+
+
+2.Array-in reverse methoduna uygun funksiya yazmaq.
+Mes: Funksiyamiz - Reverse([15,8,90]) - cavab: [90,8,15]
